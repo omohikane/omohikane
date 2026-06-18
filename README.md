@@ -18,6 +18,7 @@ Arch / EndeavourOS / Sway / fish
 ### Links
 
 - 𝕏 https://x.com/sattan72
+- Bluesky https://bsky.app/profile/r1ppl3.bsky.social
 - Zenn https://zenn.dev/r1ppl3
 
 ---
