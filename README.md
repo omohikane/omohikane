@@ -1,16 +1,25 @@
-## Hi there 👋
+## r1ppl3
 
-<!--
-**omohikane/omohikane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> An odd one. Hobbies all the way down. Some grow on their own.
 
-Here are some ideas to get you started:
+🌑 Currently growing [**SAKU (朔)**](https://github.com/omohikane/saku) — a self-evolving local AI agent with persistent personality and Markdown memory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Around here
+
+Arch / EndeavourOS / Sway / fish
+
+### Wondering about
+
+- Whether minds can be built from the bottom up
+- How small agents can carry long memory
+- What "local" means when the cloud is so cheap
+- When self-hosted becomes unmaintainable
+
+### Links
+
+- 𝕏 https://x.com/sattan72
+- Zenn https://zenn.dev/r1ppl3
+
+---
+
+<sub> Native Japanese.</sub>
